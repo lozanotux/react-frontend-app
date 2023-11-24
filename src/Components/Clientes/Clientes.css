@@ -1,0 +1,22 @@
+.clientes {
+    background-color: #D9D9D9;
+    padding: 12px 12px;
+    border: 1px solid #000;
+    margin: 24px;
+}
+
+.clientes h2 {
+    padding-bottom: 8px;
+    border-bottom: 1px solid #000;
+}
+
+.clientes .item {
+    background-color: #fff;
+    padding: 4px 12px;
+    margin: 6px 0px;
+    border-radius: 6px;
+    border: 1px solid #A0A0A0;
+    display: block;
+    text-decoration: none;
+    max-width: fit-content;
+}
